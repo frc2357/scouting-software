@@ -22,7 +22,7 @@
     "@mui/icons-material": "^5.15.6",
     "@mui/lab": "^5.0.0-alpha.162",
     "@mui/material": "^5.15.21",
-    "@yudiel/react-qr-scanner": "^1.2.6",
+    "@yudiel/react-qr-scanner": "^2.0.4",
     "adm-zip": "^0.5.10",
     "archiver": "^7.0.1",
     "electron-is-dev": "^3.0.1",
